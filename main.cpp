@@ -12,4 +12,5 @@ int main()
 	{
 		cout<<f.getPos()<<""<<f.getType()<<endl;
 	}
+	
 }
